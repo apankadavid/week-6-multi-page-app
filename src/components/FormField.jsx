@@ -95,7 +95,7 @@ function FormField({
       {hint && !error && (
         <div className="mt-2 flex flex-col gap-1">
           {hint.map((message, index) => (
-            <p key={index} className="text-xs text-[#777777]">
+            <p key={index} className="text-xs text-[#767676]">
               {message}
             </p>
           ))}

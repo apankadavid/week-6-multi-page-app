@@ -6,7 +6,7 @@ export default {
       colors: {
         primary: "#27485D",
         accent: "#476D73",
-        muted: "#CCCCCC",
+        muted: "#767676",
         danger: "#B42318",
         panelStart: "#517879",
         panelEnd: "#1E3E57",
