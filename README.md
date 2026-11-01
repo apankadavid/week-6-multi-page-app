@@ -4,8 +4,8 @@ A responsive multi-page React application extending a Figma-inspired sign-up for
 
 ## Live Demo
 
-- **Vercel:** Add your Week 6 deployment link here.
-- **GitHub:** Add your Week 6 repository link here.
+- **Vercel:** [https://week-6-multi-page-app.vercel.app/](https://week-6-multi-page-app.vercel.app/)
+- **GitHub:** [https://github.com/apankadavid/week-6-multi-page-app](https://github.com/apankadavid/week-6-multi-page-app)
 
 ## Features
 
